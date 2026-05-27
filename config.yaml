@@ -1,0 +1,9 @@
+training:
+  epochs: 3000
+  log_every: 500
+  moving_avg_window: 10
+  num_trials: 5
+
+model:
+  hidden_dim: 32
+  lr: 1e-3
