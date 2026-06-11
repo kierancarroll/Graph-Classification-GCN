@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Field](https://img.shields.io/badge/field-Deep%20Learning-blue)
 
 
